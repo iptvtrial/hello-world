@@ -1,0 +1,838 @@
+﻿#EXTINF:-1 tvg-id="" tvg-name="------ Ulusal Kanallari -----" tvg-logo="" group-title="Turkey",------ Ulusal Kanallari -----
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/54437
+#EXTINF:-1 tvg-id="TRT 1 HD-TR" tvg-name="TR: TRT 1 HD" tvg-logo="http://logo.streamstv.me/picon/TRTRT1HD.png" group-title="TR Ulusal (National)",TR: TRT 1 HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21838
+#EXTINF:-1 tvg-id="TRT 1 HD-TR" tvg-name="TR : TRT 1" tvg-logo="http://logo.streamstv.me/picon/TRTRT1FHD.png" group-title="TR Ulusal (National)",TR : TRT 1
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21839
+#EXTINF:-1 tvg-id="Atv Avrupa-TR" tvg-name="TR: ATV Avrupa" tvg-logo="http://logo.streamstv.me/picon/TRATVAvrupa.png" group-title="TR Ulusal (National)",TR: ATV Avrupa
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21376
+#EXTINF:-1 tvg-id="ATV HD-TR" tvg-name="TR: ATV HD" tvg-logo="http://logo.streamstv.me/picon/TRATVHD.png" group-title="TR Ulusal (National)",TR: ATV HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21374
+#EXTINF:-1 tvg-id="ATV HD-TR" tvg-name="TR : ATV" tvg-logo="http://logo.streamstv.me/picon/TRATVFHD.png" group-title="TR Ulusal (National)",TR : ATV
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21375
+#EXTINF:-1 tvg-id="Euro Star-TR" tvg-name="TR: Euro Star" tvg-logo="http://logo.streamstv.me/picon/TREuroStar.png" group-title="TR Ulusal (National)",TR: Euro Star
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21325
+#EXTINF:-1 tvg-id="STAR TV-TR" tvg-name="TR: Star HD" tvg-logo="http://logo.streamstv.me/picon/TRStarHD.png" group-title="TR Ulusal (National)",TR: Star HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21848
+#EXTINF:-1 tvg-id="Star TV HD-TR" tvg-name="TR : Star TV" tvg-logo="http://logo.streamstv.me/picon/TRStarTVFHD.png" group-title="TR Ulusal (National)",TR : Star TV
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21847
+#EXTINF:-1 tvg-id="SHOW TV-TR" tvg-name="TR: Show HD" tvg-logo="http://logo.streamstv.me/picon/TRShowHD.png" group-title="TR Ulusal (National)",TR: Show HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21858
+#EXTINF:-1 tvg-id="SHOW TV-TR" tvg-name="TR : Show TV" tvg-logo="http://logo.streamstv.me/picon/TRShowTVFHD.png" group-title="TR Ulusal (National)",TR : Show TV
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21855
+#EXTINF:-1 tvg-id="Show Türk-TR" tvg-name="TR: Show Turk" tvg-logo="http://logo.streamstv.me/picon/TRShowTurk.png" group-title="TR Ulusal (National)",TR: Show Turk
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21856
+#EXTINF:-1 tvg-id="Eurod-TR" tvg-name="TR: Euro D" tvg-logo="http://logo.streamstv.me/picon/TREuroD.png" group-title="TR Ulusal (National)",TR: Euro D
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21326
+#EXTINF:-1 tvg-id="KANAL D-TR" tvg-name="TR: Kanal D HD" tvg-logo="http://logo.streamstv.me/picon/TRKanalDHD.png" group-title="TR Ulusal (National)",TR: Kanal D HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21904
+#EXTINF:-1 tvg-id="KANAL D-TR" tvg-name="TR : Kanal D" tvg-logo="http://logo.streamstv.me/picon/TRKanalDFHD.png" group-title="TR Ulusal (National)",TR : Kanal D
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21905
+#EXTINF:-1 tvg-id="FOX-TR" tvg-name="TR: Fox FHD" tvg-logo="http://logo.streamstv.me/picon/fox.png" group-title="TR Ulusal (National)",TR: Fox FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21315
+#EXTINF:-1 tvg-id="FOX-TR" tvg-name="TR : Fox" tvg-logo="http://logo.streamstv.me/picon/fox.png" group-title="TR Ulusal (National)",TR : Fox
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21312
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kanal 7 Avrupa" tvg-logo="http://logo.streamstv.me/picon/TRKanal7Avrupa.png" group-title="TR Ulusal (National)",TR: Kanal 7 Avrupa
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21908
+#EXTINF:-1 tvg-id="KANAL 7-TR" tvg-name="TR: Kanal 7 FHD" tvg-logo="http://logo.streamstv.me/picon/TRKanal7FHD.png" group-title="TR Ulusal (National)",TR: Kanal 7 FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21907
+#EXTINF:-1 tvg-id="KANAL 7-TR" tvg-name="TR: Kanal 7 HD" tvg-logo="http://logo.streamstv.me/picon/TRKanal7HD.png" group-title="TR Ulusal (National)",TR: Kanal 7 HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21906
+#EXTINF:-1 tvg-id="BEYAZ TV HD-TR" tvg-name="TR: Beyaz HD" tvg-logo="http://logo.streamstv.me/picon/TRBeyazHD.png" group-title="TR Ulusal (National)",TR: Beyaz HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21352
+#EXTINF:-1 tvg-id="BEYAZ TV HD-TR" tvg-name="TR: Beyaz TV HD" tvg-logo="http://logo.streamstv.me/picon/TRBeyazTVHD.png" group-title="TR Ulusal (National)",TR: Beyaz TV HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21350
+#EXTINF:-1 tvg-id="BEYAZ TV HD-TR" tvg-name="TR: Beyaz TV FHD" tvg-logo="http://logo.streamstv.me/picon/TRBeyazTVFHD.png" group-title="TR Ulusal (National)",TR: Beyaz TV FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21351
+#EXTINF:-1 tvg-id="TV8-TR" tvg-name="TR : TV 8" tvg-logo="http://logo.streamstv.me/picon/TRTV8HD.png" group-title="TR Ulusal (National)",TR : TV 8
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21819
+#EXTINF:-1 tvg-id="TV8-TR" tvg-name="TR: TV8 FHD" tvg-logo="http://logo.streamstv.me/picon/TRTV8FHD.png" group-title="TR Ulusal (National)",TR: TV8 FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21815
+#EXTINF:-1 tvg-id="TV 8,5 HD-TR" tvg-name="TR: TV 8.5" tvg-logo="http://logo.streamstv.me/picon/TRTV8.5HD.png" group-title="TR Ulusal (National)",TR: TV 8.5
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21818
+#EXTINF:-1 tvg-id="" tvg-name="------ Spor Kanallari -----" tvg-logo="" group-title="Turkey",------ Spor Kanallari -----
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/49123
+#EXTINF:-1 tvg-id="beIN SPORTS HD 1-TR" tvg-name="TR: beINSport 1 HD" tvg-logo="http://logo.streamstv.me/picon/TRbeINSport1HD.png" group-title="TR Spor (Sports)",TR: beINSport 1 HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21360
+#EXTINF:-1 tvg-id="beIN SPORTS 1-TR" tvg-name="TR: beIN Sports 1 FHD" tvg-logo="http://logo.streamstv.me/picon/beinsports1.png" group-title="TR Spor (Sports)",TR: beIN Sports 1 FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21303
+#EXTINF:-1 tvg-id="beIN SPORTS HD 2-TR" tvg-name="TR: beINSport 2 HD" tvg-logo="http://logo.streamstv.me/picon/TRbeINSport2HD.png" group-title="TR Spor (Sports)",TR: beINSport 2 HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21359
+#EXTINF:-1 tvg-id="beIN SPORTS 2-TR" tvg-name="TR: beIN Sports 2 FHD" tvg-logo="http://logo.streamstv.me/picon/beinsports2.png" group-title="TR Spor (Sports)",TR: beIN Sports 2 FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21302
+#EXTINF:-1 tvg-id="beIN SPORTS HD 3-TR" tvg-name="TR: beINSport 3 HD" tvg-logo="http://logo.streamstv.me/picon/TRbeINSport3HD.png" group-title="TR Spor (Sports)",TR: beINSport 3 HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21358
+#EXTINF:-1 tvg-id="beIN SPORTS 3-TR" tvg-name="TR: beIN Sports 3 FHD" tvg-logo="http://logo.streamstv.me/picon/beinsports3.png" group-title="TR Spor (Sports)",TR: beIN Sports 3 FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21301
+#EXTINF:-1 tvg-id="beIN SPORTS HD 4-TR" tvg-name="TR: beINSport 4 HD" tvg-logo="http://logo.streamstv.me/picon/TRbeINSport4HD.png" group-title="TR Spor (Sports)",TR: beINSport 4 HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21357
+#EXTINF:-1 tvg-id="beIN SPORTS 4-TR" tvg-name="TR: beIN Sports 4 FHD" tvg-logo="http://logo.streamstv.me/picon/beinsports4.png" group-title="TR Spor (Sports)",TR: beIN Sports 4 FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21300
+#EXTINF:-1 tvg-id="beIN SPORTS HABER HD-TR" tvg-name="TR: beIN Sports Haber FHD" tvg-logo="http://logo.streamstv.me/picon/beINSportsHaber.png" group-title="TR Haber (News)",TR: beIN Sports Haber FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21304
+#EXTINF:-1 tvg-id="" tvg-name="TR: TiviBu Sport 1 HD" tvg-logo="http://logo.streamstv.me/picon/TRTiviBuSport1HD.png" group-title="TR Spor (Sports)",TR: TiviBu Sport 1 HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21844
+#EXTINF:-1 tvg-id="" tvg-name="TR: TiviBu Sport 2 HD" tvg-logo="http://logo.streamstv.me/picon/TRTiviBuSport2HD.png" group-title="TR Spor (Sports)",TR: TiviBu Sport 2 HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21843
+#EXTINF:-1 tvg-id="" tvg-name="TR: TiviBu Sport 3 HD" tvg-logo="http://logo.streamstv.me/picon/TRTiviBuSport3HD.png" group-title="TR Spor (Sports)",TR: TiviBu Sport 3 HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21842
+#EXTINF:-1 tvg-id="Smart Sport HD-TR" tvg-name="TR: Smart Sport 1 HD" tvg-logo="http://logo.streamstv.me/picon/TRSmartSport1HD.png" group-title="TR Spor (Sports)",TR: Smart Sport 1 HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21850
+#EXTINF:-1 tvg-id="?dman Azerbaycan-TR" tvg-name="TR: IDMan TV" tvg-logo="http://logo.streamstv.me/picon/TRIDManTV.png" group-title="TR Spor (Sports)",TR: IDMan TV
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21915
+#EXTINF:-1 tvg-id="A SPOR-TR" tvg-name="TR: A Spor HD" tvg-logo="http://logo.streamstv.me/picon/TRASporHD.png" group-title="TR Spor (Sports)",TR: A Spor HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21385
+#EXTINF:-1 tvg-id="A SPOR-TR" tvg-name="TR: A Spor FHD" tvg-logo="http://logo.streamstv.me/picon/TRASporFHD.png" group-title="TR Spor (Sports)",TR: A Spor FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21386
+#EXTINF:-1 tvg-id="EUROSPORT 1 HD-TR" tvg-name="TR: EuroSport 1" tvg-logo="http://logo.streamstv.me/picon/eurosport1.png" group-title="TR Spor (Sports)",TR: EuroSport 1
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21324
+#EXTINF:-1 tvg-id="EUROSPORT 2 TR HD-TR" tvg-name="TR: EuroSport 2" tvg-logo="http://logo.streamstv.me/picon/eurosport2.png" group-title="TR Spor (Sports)",TR: EuroSport 2
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21323
+#EXTINF:-1 tvg-id="S SPORT HD-TR" tvg-name="TR: S Sports TV" tvg-logo="http://logo.streamstv.me/picon/TRSSportsTV.png" group-title="TR Spor (Sports)",TR: S Sports TV
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21865
+#EXTINF:-1 tvg-id="TRT Spor-TR" tvg-name="TR: TRT Sport HD" tvg-logo="http://logo.streamstv.me/picon/TRTRTSportHD.png" group-title="TR Spor (Sports)",TR: TRT Sport HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21827
+#EXTINF:-1 tvg-id="TRT SPOR HD-TR" tvg-name="TR: TRT Spor FHD" tvg-logo="http://logo.streamstv.me/picon/TRTRTSporFHD.png" group-title="TR Spor (Sports)",TR: TRT Spor FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21828
+#EXTINF:-1 tvg-id="GS TV HD-TR" tvg-name="TR: GS TV" tvg-logo="http://logo.streamstv.me/picon/TRGSTV.png" group-title="TR Spor (Sports)",TR: GS TV
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21921
+#EXTINF:-1 tvg-id="" tvg-name="TR: Fenerbahce" tvg-logo="http://logo.streamstv.me/picon/TRFenerbahce.png" group-title="TR Spor (Sports)",TR: Fenerbahce
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21322
+#EXTINF:-1 tvg-id="BJK TV HD-TR" tvg-name="TR: BJK TV" tvg-logo="http://logo.streamstv.me/picon/TRBJKTV.png" group-title="TR Spor (Sports)",TR: BJK TV
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21349
+#EXTINF:-1 tvg-id="TJK TV-TR" tvg-name="TR: TJK TV" tvg-logo="http://logo.streamstv.me/picon/TRTJKTV.png" group-title="TR Spor (Sports)",TR: TJK TV
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21840
+#EXTINF:-1 tvg-id="" tvg-name="TR: DMAX" tvg-logo="" group-title="TR Spor (Sports)",TR: DMAX
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/78608
+#EXTINF:-1 tvg-id="" tvg-name="------ Haber Kanallari -----" tvg-logo="" group-title="Turkey",------ Haber Kanallari -----
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/49124
+#EXTINF:-1 tvg-id="TRT HABER HD-TR" tvg-name="TR: TRT Haber HD" tvg-logo="http://logo.streamstv.me/picon/TRTRTHaberHD.png" group-title="TR Haber (News)",TR: TRT Haber HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21832
+#EXTINF:-1 tvg-id="TRT HABER HD-TR" tvg-name="TR: TRT Haber FHD" tvg-logo="http://logo.streamstv.me/picon/TRTRTHaberFHD.png" group-title="TR Haber (News)",TR: TRT Haber FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21833
+#EXTINF:-1 tvg-id="A HABER-TR" tvg-name="TR: A Haber HD" tvg-logo="http://logo.streamstv.me/picon/TRAHaberHD.png" group-title="TR Haber (News)",TR: A Haber HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21387
+#EXTINF:-1 tvg-id="A HABER-TR" tvg-name="TR: A Haber FHD" tvg-logo="http://logo.streamstv.me/picon/TRAHaberFHD.png" group-title="TR Haber (News)",TR: A Haber FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21388
+#EXTINF:-1 tvg-id="CNN TÜRK HD-TR" tvg-name="TR: CNN Turk HD" tvg-logo="http://logo.streamstv.me/picon/cnnturk.png" group-title="TR Haber (News)",TR: CNN Turk HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21340
+#EXTINF:-1 tvg-id="CNN TÜRK HD-TR" tvg-name="TR: CNN Turk FHD" tvg-logo="http://logo.streamstv.me/picon/cnnturk.png" group-title="TR Haber (News)",TR: CNN Turk FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21341
+#EXTINF:-1 tvg-id="HABERTURK HD-TR" tvg-name="TR: Haber Turk HD" tvg-logo="http://logo.streamstv.me/picon/TRHaberTurkHD.png" group-title="TR Haber (News)",TR: Haber Turk HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21920
+#EXTINF:-1 tvg-id="HABERTÜRK-TR" tvg-name="TR: HaberTurk FHD" tvg-logo="http://logo.streamstv.me/picon/TRHaberTurkFHD.png" group-title="TR Haber (News)",TR: HaberTurk FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21919
+#EXTINF:-1 tvg-id="TGRT HABER-TR" tvg-name="TR: TGRT Haber FHD" tvg-logo="http://logo.streamstv.me/picon/TRTGRTHaberHD.png" group-title="TR Haber (News)",TR: TGRT Haber FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21846
+#EXTINF:-1 tvg-id="BLOOMBERG HT-TR" tvg-name="TR: Bloomberg HT FHD" tvg-logo="http://logo.streamstv.me/picon/TRBloombergHTFHD.png" group-title="TR Haber (News)",TR: Bloomberg HT FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21348
+#EXTINF:-1 tvg-id="BLOOMBERG TV-TR" tvg-name="TR: Bloomberg TV" tvg-logo="http://logo.streamstv.me/picon/TRBloombergTV.png" group-title="TR Haber (News)",TR: Bloomberg TV
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21347
+#EXTINF:-1 tvg-id="" tvg-name="TR: Merkez" tvg-logo="" group-title="TR Haber (News)",TR: Merkez
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/73467
+#EXTINF:-1 tvg-id="NTV-TR" tvg-name="TR: NTV HD" tvg-logo="http://logo.streamstv.me/picon/TRNTVHD.png" group-title="TR Haber (News)",TR: NTV HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21876
+#EXTINF:-1 tvg-id="" tvg-name="TR: NTV Haber FHD" tvg-logo="http://logo.streamstv.me/picon/TRNTVHaberFHD.png" group-title="TR Haber (News)",TR: NTV Haber FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21877
+#EXTINF:-1 tvg-id="ÜLKE TV-TR" tvg-name="TR: Ulke TV" tvg-logo="http://logo.streamstv.me/picon/TRUlkeTV.png" group-title="TR Haber (News)",TR: Ulke TV
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21813
+#EXTINF:-1 tvg-id="ÜLKE TV-TR" tvg-name="TR: Ulke TV FHD" tvg-logo="http://logo.streamstv.me/picon/TRUlkeTVFHD.png" group-title="TR Haber (News)",TR: Ulke TV FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21814
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV100" tvg-logo="" group-title="TR Haber (News)",TR: TV100
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/72053
+#EXTINF:-1 tvg-id="HABER GLOBAL HD-TR" tvg-name="TR: Haber Global" tvg-logo="" group-title="TR Haber (News)",TR: Haber Global
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/72055
+#EXTINF:-1 tvg-id="" tvg-name="TR: TELE 1" tvg-logo="" group-title="TR Haber (News)",TR: TELE 1
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/72056
+#EXTINF:-1 tvg-id="" tvg-name="------ Belgesel Kanallari -----" tvg-logo="" group-title="",------ Belgesel Kanallari -----
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/49125
+#EXTINF:-1 tvg-id="TRT BELGESEL-TR" tvg-name="TR: TRT Belgesel HD" tvg-logo="http://logo.streamstv.me/picon/TRTRTBelgeselHD.png" group-title="TR Belgesel (Documentary)",TR: TRT Belgesel HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21837
+#EXTINF:-1 tvg-id="TLC-TR" tvg-name="TR: TLC" tvg-logo="" group-title="TR Belgesel (Documentary)",TR: TLC
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/49221
+#EXTINF:-1 tvg-id="Animal Planet Hd-TR" tvg-name="TR: Animal Planet HD" tvg-logo="http://logo.streamstv.me/picon/AnimalPlanet.png" group-title="TR Belgesel (Documentary)",TR: Animal Planet HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21378
+#EXTINF:-1 tvg-id="DISCOVERY CHANNEL HD-TR" tvg-name="TR: Discovery Channel" tvg-logo="http://logo.streamstv.me/picon/discoverychannel.png" group-title="TR Belgesel (Documentary)",TR: Discovery Channel
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21337
+#EXTINF:-1 tvg-id="" tvg-name="TR: Discovery IDX HD" tvg-logo="http://logo.streamstv.me/picon/discoveryid.png" group-title="TR Belgesel (Documentary)",TR: Discovery IDX HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21336
+#EXTINF:-1 tvg-id="Discovery Hd Showcase-TR" tvg-name="TR: Discovery ShowCase HD" tvg-logo="http://logo.streamstv.me/picon/discoveryshowcasehd.png" group-title="TR Belgesel (Documentary)",TR: Discovery ShowCase HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21335
+#EXTINF:-1 tvg-id="History HD-TR" tvg-name="TR: History Channel HD" tvg-logo="http://logo.streamstv.me/picon/TRHistoryChannelHD.png" group-title="TR Belgesel (Documentary)",TR: History Channel HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21917
+#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC-TR" tvg-name="TR: Nat Geo HD" tvg-logo="http://logo.streamstv.me/picon/nationalgeographicHD.png" group-title="TR Belgesel (Documentary)",TR: Nat Geo HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21883
+#EXTINF:-1 tvg-id="NAT GEO PEOPLE HD-TR" tvg-name="TR: Nat Geo People" tvg-logo="http://logo.streamstv.me/picon/natgeopeople.png" group-title="TR Belgesel (Documentary)",TR: Nat Geo People
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21882
+#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC WILD-TR" tvg-name="TR: Nat Geo Wild HD" tvg-logo="http://logo.streamstv.me/picon/natgeowildhd.png" group-title="TR Belgesel (Documentary)",TR: Nat Geo Wild HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21881
+#EXTINF:-1 tvg-id="" tvg-name="TR: Yaban TV" tvg-logo="http://logo.streamstv.me/picon/TRYabanTV.png" group-title="TR Belgesel (Documentary)",TR: Yaban TV
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21812
+#EXTINF:-1 tvg-id="" tvg-name="------ Cocuk Kanallari -----" tvg-logo="" group-title="",------ Cocuk Kanallari -----
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/49126
+#EXTINF:-1 tvg-id="TRT ÇOCUK HD-TR" tvg-name="TR: TRT Cocuk" tvg-logo="http://logo.streamstv.me/picon/TRTRTCocuk.png" group-title="TR Cocuk (Kids)",TR: TRT Cocuk
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21835
+#EXTINF:-1 tvg-id="TRT ÇOCUK HD-TR" tvg-name="TR: TRT Cocuk FHD" tvg-logo="http://logo.streamstv.me/picon/TRTRTCocukFHD.png" group-title="TR Cocuk (Kids)",TR: TRT Cocuk FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21836
+#EXTINF:-1 tvg-id="BABY TV-TR" tvg-name="TR: Baby TV" tvg-logo="http://logo.streamstv.me/picon/babytv.png" group-title="TR Cocuk (Kids)",TR: Baby TV
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21373
+#EXTINF:-1 tvg-id="CARTOON NETWORK-TR" tvg-name="TR: Cartoon Network HD" tvg-logo="http://logo.streamstv.me/picon/TRCartoonNetworkHD.png" group-title="TR Cocuk (Kids)",TR: Cartoon Network HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21344
+#EXTINF:-1 tvg-id="DISNEY CHANNEL-TR" tvg-name="TR: Disney Channel" tvg-logo="http://logo.streamstv.me/picon/disneychannel.png" group-title="TR Cocuk (Kids)",TR: Disney Channel
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21334
+#EXTINF:-1 tvg-id="Disney Junior-TR" tvg-name="TR: Disney Junior" tvg-logo="http://logo.streamstv.me/picon/disneyjunior.png" group-title="TR Cocuk (Kids)",TR: Disney Junior
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21333
+#EXTINF:-1 tvg-id="Disney XD-TR" tvg-name="TR: Disney XD" tvg-logo="http://logo.streamstv.me/picon/disneyxd.png" group-title="TR Cocuk (Kids)",TR: Disney XD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21332
+#EXTINF:-1 tvg-id="Kidz Animez Tv-TR" tvg-name="TR: Kidz" tvg-logo="http://logo.streamstv.me/picon/TRKidz.png" group-title="TR Cocuk (Kids)",TR: Kidz
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21901
+#EXTINF:-1 tvg-id="Minika Çocuk-TR" tvg-name="TR: Minika Cocuk" tvg-logo="http://logo.streamstv.me/picon/TRMinikaCocuk.png" group-title="TR Cocuk (Kids)",TR: Minika Cocuk
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21890
+#EXTINF:-1 tvg-id="Minika Çocuk-TR" tvg-name="TR: Minika Cocuk HD" tvg-logo="http://logo.streamstv.me/picon/TRMinikaCocukHD.png" group-title="TR Cocuk (Kids)",TR: Minika Cocuk HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21891
+#EXTINF:-1 tvg-id="MinikaGO-TR" tvg-name="TR: Minika Go HD" tvg-logo="http://logo.streamstv.me/picon/TRMinikaGoHD.png" group-title="TR Cocuk (Kids)",TR: Minika Go HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21889
+#EXTINF:-1 tvg-id="Nick Jr.-TR" tvg-name="TR: Nick JR" tvg-logo="http://logo.streamstv.me/picon/nickjr.png" group-title="TR Cocuk (Kids)",TR: Nick JR
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21880
+#EXTINF:-1 tvg-id="Nickelodeon-TR" tvg-name="TR: Nickeledeon HD" tvg-logo="http://logo.streamstv.me/picon/TRNickeledeonHD.png" group-title="TR Cocuk (Kids)",TR: Nickeledeon HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21879
+#EXTINF:-1 tvg-id="Planet Çocuk-TR" tvg-name="TR: Planet Cocuk HD" tvg-logo="http://logo.streamstv.me/picon/TRPlanetCocukHD.png" group-title="TR Cocuk (Kids)",TR: Planet Cocuk HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21870
+#EXTINF:-1 tvg-id="" tvg-name="------ Film Kanallari -----" tvg-logo="" group-title="Turkey",------ Film Kanallari -----
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/49127
+#EXTINF:-1 tvg-id="beIN MOVIES ACTION 2 HD-TR" tvg-name="TR: beIN MOVIES ACTION 2 FHD" tvg-logo="http://logo.streamstv.me/picon/beinmoviesaction.png" group-title="TR Film (Movies)",TR: beIN MOVIES ACTION 2 FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/20323
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN MOVIES FAMILY FHD" tvg-logo="http://logo.streamstv.me/picon/beINMOVIESFAMILY.png" group-title="TR Film (Movies)",TR: beIN MOVIES FAMILY FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/20321
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN MOVIES PREMIER FHD" tvg-logo="http://logo.streamstv.me/picon/beinmoviespremier.png" group-title="TR Film (Movies)",TR: beIN MOVIES PREMIER FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/20319
+#EXTINF:-1 tvg-id="beIN MOVIES STARS HD-TR" tvg-name="TR: beIN MOVIES STARS FHD" tvg-logo="http://logo.streamstv.me/picon/beinmoviesstars.png" group-title="TR Film (Movies)",TR: beIN MOVIES STARS FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/20318
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN MOVIES TURK FHD" tvg-logo="http://logo.streamstv.me/picon/beinmoviesturk.png" group-title="TR Film (Movies)",TR: beIN MOVIES TURK FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/20317
+#EXTINF:-1 tvg-id="beIN MOVIES TURK HD-TR" tvg-name="TR: beIN MOVIES TURK HD" tvg-logo="http://logo.streamstv.me/picon/beinmoviesturk.png" group-title="TR Film (Movies)",TR: beIN MOVIES TURK HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/20316
+#EXTINF:-1 tvg-id="beIN MOVIES ACTION HD-TR" tvg-name="TR: beIN Movies Action FHD" tvg-logo="http://logo.streamstv.me/picon/beinmoviesaction.png" group-title="TR Film (Movies)",TR: beIN Movies Action FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/20315
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Movies Comedy HD" tvg-logo="http://logo.streamstv.me/picon/beinmoviescomedy.png" group-title="TR Film (Movies)",TR: beIN Movies Comedy HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/20314
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Movies Family HD" tvg-logo="http://logo.streamstv.me/picon/beINMOVIESFAMILY.png" group-title="TR Film (Movies)",TR: beIN Movies Family HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/20313
+#EXTINF:-1 tvg-id="beIN MOVIES STARS HD-TR" tvg-name="TR: beIN Movies Stars HD" tvg-logo="http://logo.streamstv.me/picon/beinmoviesstars.png" group-title="TR Film (Movies)",TR: beIN Movies Stars HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21309
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Series Comedy HD" tvg-logo="http://logo.streamstv.me/picon/BEINSERIESCOMEDYHD.png" group-title="TR Film (Movies)",TR: beIN Series Comedy HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21308
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Series Drama HD" tvg-logo="http://logo.streamstv.me/picon/beINSeriesDramaHD.png" group-title="TR Film (Movies)",TR: beIN Series Drama HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21307
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Series Sci-Fi HD" tvg-logo="http://logo.streamstv.me/picon/beINSeriesSci-FiHD.png" group-title="TR Film (Movies)",TR: beIN Series Sci-Fi HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21306
+#EXTINF:-1 tvg-id="beIN SERIES VICE HD-TR" tvg-name="TR: beIN Series Vice HD" tvg-logo="http://logo.streamstv.me/picon/beINSeriesViceHD.png" group-title="TR Film (Movies)",TR: beIN Series Vice HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21305
+#EXTINF:-1 tvg-id="beIN MOVIES ACTION HD-TR" tvg-name="TR: beINMovies Action HD" tvg-logo="http://logo.streamstv.me/picon/TRbeINMoviesActionHD.png" group-title="TR Film (Movies)",TR: beINMovies Action HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21368
+#EXTINF:-1 tvg-id="beIN MOVIES FAMILY HD-TR" tvg-name="TR: beINMovies Family FHD" tvg-logo="http://logo.streamstv.me/picon/TRbeINMoviesFamilyHD.png" group-title="TR Film (Movies)",TR: beINMovies Family FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21367
+#EXTINF:-1 tvg-id="beIN MOVIES STARS HD-TR" tvg-name="TR: beINMovies Stars HD" tvg-logo="http://logo.streamstv.me/picon/TRbeINMoviesStarsHD.png" group-title="TR Film (Movies)",TR: beINMovies Stars HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21363
+#EXTINF:-1 tvg-id="beIN MOVIES TURK HD-TR" tvg-name="TR: beINMovies Turk HD" tvg-logo="http://logo.streamstv.me/picon/TRbeINMoviesTurkHD.png" group-title="TR Film (Movies)",TR: beINMovies Turk HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21362
+#EXTINF:-1 tvg-id="beIN BOX OFFICE 1 HD-TR" tvg-name="TR: beIN Box Office 1 HD" tvg-logo="http://logo.streamstv.me/picon/beinboxoffice1.png" group-title="TR Film (Movies)",TR: beIN Box Office 1 HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21372
+#EXTINF:-1 tvg-id="beIN BOX OFFICE 2 HD-TR" tvg-name="TR: beIN Box Office 2 HD" tvg-logo="http://logo.streamstv.me/picon/beinboxoffice2.png" group-title="TR Film (Movies)",TR: beIN Box Office 2 HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21371
+#EXTINF:-1 tvg-id="beIN BOX OFFICE 3 HD-TR" tvg-name="TR: beIN Box Office 3 HD" tvg-logo="http://logo.streamstv.me/picon/beinboxoffice3.png" group-title="TR Film (Movies)",TR: beIN Box Office 3 HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21370
+#EXTINF:-1 tvg-id="Fil Tv-TR" tvg-name="TR: Fil TV HD" tvg-logo="http://logo.streamstv.me/picon/TRFilTVHD.png" group-title="TR Film (Movies)",TR: Fil TV HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21321
+#EXTINF:-1 tvg-id="" tvg-name="TR: Filmbox Turk HD" tvg-logo="http://logo.streamstv.me/picon/TRFilmboxTurkmaxGurmeHD.png" group-title="TR Film (Movies)",TR: Filmbox Turk HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21318
+#EXTINF:-1 tvg-id="FilmBox HD-TR" tvg-name="TR: FILMBOX HD | PREMIER VIP" tvg-logo="http://logo.streamstv.me/picon/TRFILMBOXHD|PREMIERVIP.png" group-title="TR Film (Movies)",TR: FILMBOX HD | PREMIER VIP
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/20389
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMBOX HD | TURK" tvg-logo="http://logo.streamstv.me/picon/TRFILMBOXHDTURKVIP.png" group-title="TR Film (Movies)",TR: FILMBOX HD | TURK
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/20385
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMBOX HD | YESILCAM" tvg-logo="http://logo.streamstv.me/picon/TRFILMBOXHDYESILCAMVIP.png" group-title="TR Film (Movies)",TR: FILMBOX HD | YESILCAM
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/20384
+#EXTINF:-1 tvg-id="" tvg-name="TR: KEMAL SUNAL 7/24 VIP" tvg-logo="http://logo.streamstv.me/picon/TRKEMALSUNAL724VIP.png" group-title="TR Film (Movies)",TR: KEMAL SUNAL 7/24 VIP
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/20380
+#EXTINF:-1 tvg-id="" tvg-name="TR: LOCA 1 HD" tvg-logo="http://logo.streamstv.me/picon/TRLOCA1HDVIP.png" group-title="TR Film (Movies)",TR: LOCA 1 HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/20379
+#EXTINF:-1 tvg-id="" tvg-name="TR: LOCA 3 HD VIP" tvg-logo="http://logo.streamstv.me/picon/TRLOCA3HDVIP.png" group-title="TR Film (Movies)",TR: LOCA 3 HD VIP
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/20377
+#EXTINF:-1 tvg-id="" tvg-name="TR: MagicBox Animasyon HD" tvg-logo="http://logo.streamstv.me/picon/TRMagicBoxAnimasyonHD.png" group-title="TR Film (Movies)",TR: MagicBox Animasyon HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21893
+#EXTINF:-1 tvg-id="" tvg-name="TR: MagicBox Komedi HD" tvg-logo="http://logo.streamstv.me/picon/TRMagicBoxKomediHD.png" group-title="TR Film (Movies)",TR: MagicBox Komedi HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21892
+#EXTINF:-1 tvg-id="MovieSmart Family HD-TR" tvg-name="TR: MovieSmart Family HD" tvg-logo="http://logo.streamstv.me/picon/TRMovieSmartFamilyHD.png" group-title="TR Film (Movies)",TR: MovieSmart Family HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21888
+#EXTINF:-1 tvg-id="MovieSmart Gold HD-TR" tvg-name="TR: MovieSmart Gold HD" tvg-logo="http://logo.streamstv.me/picon/TRMovieSmartGoldHD.png" group-title="TR Film (Movies)",TR: MovieSmart Gold HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21887
+#EXTINF:-1 tvg-id="MovieSmart Premium HD-TR" tvg-name="TR: MovieSmart Premium 1 HD" tvg-logo="http://logo.streamstv.me/picon/TRMovieSmartPremium1HD.png" group-title="TR Film (Movies)",TR: MovieSmart Premium 1 HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21885
+#EXTINF:-1 tvg-id="MovieSmart Premium 2 HD-TR" tvg-name="TR: MovieSmart Premium 2 HD" tvg-logo="http://logo.streamstv.me/picon/TRMovieSmartPremium2HD.png" group-title="TR Film (Movies)",TR: MovieSmart Premium 2 HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21884
+#EXTINF:-1 tvg-id="MovieSmart Action HD-TR" tvg-name="TR: MOVIESMART ACTION HD" tvg-logo="http://logo.streamstv.me/picon/TRMOVIESMARTACTIONHDVIP.png" group-title="TR Film (Movies)",TR: MOVIESMART ACTION HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/20366
+#EXTINF:-1 tvg-id="MovieSmart Platin HD-TR" tvg-name="TR: MOVIESMART PLATIN 1 FHD" tvg-logo="http://logo.streamstv.me/picon/TRMOVIESMARTPLATIN1HDVIP.png" group-title="TR Film (Movies)",TR: MOVIESMART PLATIN 1 FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/20362
+#EXTINF:-1 tvg-id="MovieSmart Platin 2 HD-TR" tvg-name="TR: MovieSmart Platin 2 FHD" tvg-logo="http://logo.streamstv.me/picon/TRMovieSmartPlatin2HD.png" group-title="TR Film (Movies)",TR: MovieSmart Platin 2 FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21886
+#EXTINF:-1 tvg-id="MovieSmart Premium HD-TR" tvg-name="TR: MOVIESMART PREMIUM 1 FHD" tvg-logo="http://logo.streamstv.me/picon/TRMOVIESMARTPREMIUM1HDVIP.png" group-title="TR Film (Movies)",TR: MOVIESMART PREMIUM 1 FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/20360
+#EXTINF:-1 tvg-id="" tvg-name="TR: MOVIESMART TURK HD" tvg-logo="http://logo.streamstv.me/picon/TRMOVIESMARTTURKHDVIP.png" group-title="TR Film (Movies)",TR: MOVIESMART TURK HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/20358
+#EXTINF:-1 tvg-id="" tvg-name="TR: Salon 1 FHD" tvg-logo="http://logo.streamstv.me/picon/TRSalon1FHD.png" group-title="TR Film (Movies)",TR: Salon 1 FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21863
+#EXTINF:-1 tvg-id="" tvg-name="TR: Salon 2 HD" tvg-logo="http://logo.streamstv.me/picon/TRSalon2HD.png" group-title="TR Film (Movies)",TR: Salon 2 HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21862
+#EXTINF:-1 tvg-id="" tvg-name="TR: Salon 3 HD" tvg-logo="http://logo.streamstv.me/picon/TRSalon3HD.png" group-title="TR Film (Movies)",TR: Salon 3 HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21861
+#EXTINF:-1 tvg-id="" tvg-name="TR: SineTivi Adrenalin 1 HD" tvg-logo="http://logo.streamstv.me/picon/TRSineTiviAdrenalin1HD.png" group-title="TR Film (Movies)",TR: SineTivi Adrenalin 1 HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21853
+#EXTINF:-1 tvg-id="" tvg-name="TR: SiNEMA Adrenalin" tvg-logo="http://logo.streamstv.me/picon/TRSineTiviAdrenalin2HD.png" group-title="TR Film (Movies)",TR: SiNEMA Adrenalin
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21852
+#EXTINF:-1 tvg-id="SINEMA TV HD-TR" tvg-name="TR: Sinema TV FHD" tvg-logo="http://logo.streamstv.me/picon/TRSinemaTVFHD.png" group-title="TR Film (Movies)",TR: Sinema TV FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21854
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema Aksiyon HD" tvg-logo="http://logo.streamstv.me/picon/TRSiNEMATV2HDVIP.png" group-title="TR Film (Movies)",TR: Sinema Aksiyon HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/20338
+#EXTINF:-1 tvg-id="" tvg-name="------ Muzik Kanallari ------" tvg-logo="" group-title="Turkey",------ Muzik Kanallari ------
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/49128
+#EXTINF:-1 tvg-id="DREAM TV-TR" tvg-name="TR: Dream TV" tvg-logo="http://logo.streamstv.me/picon/TRDreamTV.png" group-title="TR Muzik (Music)",TR: Dream TV
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21329
+#EXTINF:-1 tvg-id="DREAM TV-TR" tvg-name="TR: Dream Turk" tvg-logo="http://logo.streamstv.me/picon/TRDreamTruk.png" group-title="TR Muzik (Music)",TR: Dream Turk
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21330
+#EXTINF:-1 tvg-id="Kral Pop Radyo-TR" tvg-name="TR: Kral POP HD" tvg-logo="http://logo.streamstv.me/picon/TRKralPOPHD.png" group-title="TR Muzik (Music)",TR: Kral POP HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21899
+#EXTINF:-1 tvg-id="Kral Pop Radyo-TR" tvg-name="TR: Kral POP TV FHD" tvg-logo="http://logo.streamstv.me/picon/TRKralPOPTVFHD.png" group-title="TR Muzik (Music)",TR: Kral POP TV FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21898
+#EXTINF:-1 tvg-id="Kral FM-TR" tvg-name="TR: Kral" tvg-logo="http://logo.streamstv.me/picon/TRKral.png" group-title="TR Muzik (Music)",TR: Kral
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21897
+#EXTINF:-1 tvg-id="" tvg-name="TR: MGC music" tvg-logo="http://logo.streamstv.me/picon/TRPlanetTurk.png" group-title="TR Muzik (Music)",TR: MGC music
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21867
+#EXTINF:-1 tvg-id="Kral FM-TR" tvg-name="TR: Kral TV FHD" tvg-logo="http://logo.streamstv.me/picon/TRKralTVFHD.png" group-title="TR Muzik (Music)",TR: Kral TV FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21896
+#EXTINF:-1 tvg-id="Number One TV-TR" tvg-name="TR: Number 1 HD" tvg-logo="http://logo.streamstv.me/picon/TRNumber1HD.png" group-title="TR Muzik (Music)",TR: Number 1 HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21873
+#EXTINF:-1 tvg-id="Number One Türk-TR" tvg-name="TR: Number 1 Turk" tvg-logo="http://logo.streamstv.me/picon/TRNumber1Turk.png" group-title="TR Muzik (Music)",TR: Number 1 Turk
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21872
+#EXTINF:-1 tvg-id="" tvg-name="TR: NR1 Turk" tvg-logo="http://logo.streamstv.me/picon/TRNR1Turk.png" group-title="TR Muzik (Music)",TR: NR1 Turk
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21878
+#EXTINF:-1 tvg-id="TRT MÜZİK-TR" tvg-name="TR: TRT Muzik HD" tvg-logo="http://logo.streamstv.me/picon/TRTRTMuzikHD.png" group-title="TR Muzik (Music)",TR: TRT Muzik HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21830
+#EXTINF:-1 tvg-id="" tvg-name="------ Yoresel Kanallari -----" tvg-logo="" group-title="Turkey",------ Yoresel Kanallari -----
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/49129
+#EXTINF:-1 tvg-id="FOX CRIME HD-TR" tvg-name="TR: Fox Crime" tvg-logo="http://logo.streamstv.me/picon/foxcrime.png" group-title="TR Yoresel Kanallari",TR: Fox Crime
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21316
+#EXTINF:-1 tvg-id="FOX LIFE HD-TR" tvg-name="TR: Fox Life" tvg-logo="http://logo.streamstv.me/picon/foxlife.png" group-title="TR Yoresel Kanallari",TR: Fox Life
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21313
+#EXTINF:-1 tvg-id="FOX LIFE HD-TR" tvg-name="TR: Fox Life HD" tvg-logo="http://logo.streamstv.me/picon/foxlifehd.png" group-title="TR Yoresel Kanallari",TR: Fox Life HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21314
+#EXTINF:-1 tvg-id="FOX CRIME HD-TR" tvg-name="TR: FOX CRIME HD VIP" tvg-logo="http://logo.streamstv.me/picon/foxcrimehd.png" group-title="TR Yoresel Kanallari",TR: FOX CRIME HD VIP
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/20383
+#EXTINF:-1 tvg-id="Showmax-TR" tvg-name="TR: Show Max" tvg-logo="http://logo.streamstv.me/picon/TRShowMax.png" group-title="TR Yoresel Kanallari",TR: Show Max
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21857
+#EXTINF:-1 tvg-id="24 TV HD-TR" tvg-name="TR: 24 TV" tvg-logo="http://logo.streamstv.me/picon/TR24TV.png" group-title="TR Yoresel Kanallari",TR: 24 TV
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21390
+#EXTINF:-1 tvg-id="360 HD-TR" tvg-name="TR: 360 TV" tvg-logo="http://logo.streamstv.me/picon/TR360TV.png" group-title="TR Yoresel Kanallari",TR: 360 TV
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21389
+#EXTINF:-1 tvg-id="" tvg-name="TR: A2" tvg-logo="http://logo.streamstv.me/picon/TRA2.png" group-title="TR Yoresel Kanallari",TR: A2
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21383
+#EXTINF:-1 tvg-id="" tvg-name="TR: Aksu TV" tvg-logo="http://logo.streamstv.me/picon/TRAksuTV.png" group-title="TR Yoresel Kanallari",TR: Aksu TV
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21379
+#EXTINF:-1 tvg-id="beIN ?Z HD-TR" tvg-name="TR: beIN IZ HD" tvg-logo="http://logo.streamstv.me/picon/beiniz.png" group-title="TR Yoresel Kanallari",TR: beIN IZ HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21369
+#EXTINF:-1 tvg-id="" tvg-name="TR: BeIN iZ" tvg-logo="" group-title="TR Yoresel Kanallari",TR: BeIN iZ
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/73828
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEN TV" tvg-logo="http://logo.streamstv.me/picon/TRBENTV.png" group-title="TR Yoresel Kanallari",TR: BEN TV
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21354
+#EXTINF:-1 tvg-id="" tvg-name="TR: BRT 1 HD" tvg-logo="http://logo.streamstv.me/picon/TRBRT1HD.png" group-title="Turkey",TR: BRT 1 HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21346
+#EXTINF:-1 tvg-id="" tvg-name="TR: BenguTurk TV" tvg-logo="http://logo.streamstv.me/picon/TRBenguTurkTV.png" group-title="TR Yoresel Kanallari",TR: BenguTurk TV
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21353
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cay TV" tvg-logo="http://logo.streamstv.me/picon/TRCayTV.png" group-title="TR Yoresel Kanallari",TR: Cay TV
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21343
+#EXTINF:-1 tvg-id="CEM TV-TR" tvg-name="TR: Cem TV" tvg-logo="http://logo.streamstv.me/picon/TRCemTV.png" group-title="TR Yoresel Kanallari",TR: Cem TV
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21342
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZI SMART PREMIUM HD" tvg-logo="http://logo.streamstv.me/picon/TRDIZITVHDVIP.png" group-title="TR Yoresel Kanallari",TR: DIZI SMART PREMIUM HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/20401
+#EXTINF:-1 tvg-id="" tvg-name="TR: Da Vinci Learning HD" tvg-logo="http://logo.streamstv.me/picon/TRDaVinciLearningHD.png" group-title="TR Yoresel Kanallari",TR: Da Vinci Learning HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21339
+#EXTINF:-1 tvg-id="" tvg-name="TR: Den" tvg-logo="http://logo.streamstv.me/picon/TRDen.png" group-title="TR Yoresel Kanallari",TR: Den
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21338
+#EXTINF:-1 tvg-id="" tvg-name="TR: Dost TV" tvg-logo="http://logo.streamstv.me/picon/TRDostTV.png" group-title="TR Yoresel Kanallari",TR: Dost TV
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21331
+#EXTINF:-1 tvg-id="" tvg-name="TR: Ege TV FHD" tvg-logo="http://logo.streamstv.me/picon/TREgeTVFHD.png" group-title="TR Yoresel Kanallari",TR: Ege TV FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21327
+#EXTINF:-1 tvg-id="FX HD-TR" tvg-name="TR: FX FHD" tvg-logo="http://logo.streamstv.me/picon/TRFXHDVIP.png" group-title="TR Yoresel Kanallari",TR: FX FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/20381
+#EXTINF:-1 tvg-id="KIBRIS GENC TV-TR" tvg-name="TR: Genc TV HD" tvg-logo="http://logo.streamstv.me/picon/TRGencTVHD.png" group-title="TR Yoresel Kanallari",TR: Genc TV HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21922
+#EXTINF:-1 tvg-id="Halk Tv-TR" tvg-name="TR: Halk TV" tvg-logo="http://logo.streamstv.me/picon/TRHalkTV.png" group-title="TR Yoresel Kanallari",TR: Halk TV
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21918
+#EXTINF:-1 tvg-id="" tvg-name="TR: Icel TV" tvg-logo="http://logo.streamstv.me/picon/TRIcelTV.png" group-title="TR Yoresel Kanallari",TR: Icel TV
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21916
+#EXTINF:-1 tvg-id="" tvg-name="TR: Istanbul TV" tvg-logo="http://logo.streamstv.me/picon/TRIstanbulTV.png" group-title="TR Yoresel Kanallari",TR: Istanbul TV
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21914
+#EXTINF:-1 tvg-id="" tvg-name="TR: Koy TV" tvg-logo="" group-title="TR Yoresel Kanallari",TR: Koy TV
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/40676
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kanal 24" tvg-logo="http://logo.streamstv.me/picon/TRKanal24.png" group-title="TR Yoresel Kanallari",TR: Kanal 24
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21912
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kanal 24 FHD" tvg-logo="http://logo.streamstv.me/picon/TRKanal24FHD.png" group-title="TR Yoresel Kanallari",TR: Kanal 24 FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21913
+#EXTINF:-1 tvg-id="KANAL 26-TR" tvg-name="TR: Kanal 26" tvg-logo="http://logo.streamstv.me/picon/TRKanal26.png" group-title="TR Yoresel Kanallari",TR: Kanal 26
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21911
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kanal 3" tvg-logo="http://logo.streamstv.me/picon/TRKanal3.png" group-title="TR Yoresel Kanallari",TR: Kanal 3
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21910
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kanal 58" tvg-logo="http://logo.streamstv.me/picon/TRKanal58.png" group-title="TR Yoresel Kanallari",TR: Kanal 58
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21909
+#EXTINF:-1 tvg-id="" tvg-name="TR: Karaden" tvg-logo="http://logo.streamstv.me/picon/TRKaraden.png" group-title="TR Yoresel Kanallari",TR: Karaden
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21903
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kon TV" tvg-logo="http://logo.streamstv.me/picon/TRKanalTRKonTV.png" group-title="TR Yoresel Kanallari",TR: Kon TV
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21900
+#EXTINF:-1 tvg-id="" tvg-name="TR: Lalegul TV" tvg-logo="http://logo.streamstv.me/picon/TRLalegulTV.png" group-title="TR Yoresel Kanallari",TR: Lalegul TV
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21895
+#EXTINF:-1 tvg-id="OLAY TV-TR" tvg-name="TR: Olay TV" tvg-logo="http://logo.streamstv.me/picon/TROlayTV.png" group-title="TR Yoresel Kanallari",TR: Olay TV
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21871
+#EXTINF:-1 tvg-id="" tvg-name="TR: Power Turk HD" tvg-logo="http://logo.streamstv.me/picon/TRPowerTurkHD.png" group-title="TR Yoresel Kanallari",TR: Power Turk HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21866
+#EXTINF:-1 tvg-id="" tvg-name="TR: Semerkant TV" tvg-logo="http://logo.streamstv.me/picon/TRSemerkantTV.png" group-title="TR Yoresel Kanallari",TR: Semerkant TV
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21859
+#EXTINF:-1 tvg-id="DİYANET TV-TR" tvg-name="TR: TRT Diyanet" tvg-logo="http://logo.streamstv.me/picon/TRTRTDiyanet.png" group-title="TR Yoresel Kanallari",TR: TRT Diyanet
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21834
+#EXTINF:-1 tvg-id="TRT Okul-TR" tvg-name="TR: TRT Okul" tvg-logo="http://logo.streamstv.me/picon/TRTRTOkul.png" group-title="Turkey",TR: TRT Okul
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21829
+#EXTINF:-1 tvg-id="TRT TÜRK-TR" tvg-name="TR: TRT Turk" tvg-logo="http://logo.streamstv.me/picon/TRTRTTurk.png" group-title="Turkey",TR: TRT Turk
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21826
+#EXTINF:-1 tvg-id="TRT WORLD HD-TR" tvg-name="TR: TRT World HD" tvg-logo="http://logo.streamstv.me/picon/TRTRTWorld.png" group-title="TR Yoresel Kanallari",TR: TRT World HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21825
+#EXTINF:-1 tvg-id="FILMBOX HD-TR" tvg-name="TR: FilmBOX HD VIP" tvg-logo="http://logo.streamstv.me/picon/TRTURKMAXHDVIP.png" group-title="TR Film (Movies)",TR: FilmBOX HD VIP
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/20328
+#EXTINF:-1 tvg-id="TEVE2 HD-TR" tvg-name="TR: TEVE 2 FHD" tvg-logo="http://logo.streamstv.me/picon/TRTV2HD.png" group-title="TR Yoresel Kanallari",TR: TEVE 2 FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21822
+#EXTINF:-1 tvg-id="TEVE2 HD-TR" tvg-name="TR: TEVE 2" tvg-logo="http://logo.streamstv.me/picon/TRTV2FHD.png" group-title="TR Yoresel Kanallari",TR: TEVE 2
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21823
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV 4" tvg-logo="http://logo.streamstv.me/picon/TRTV4.png" group-title="TR Yoresel Kanallari",TR: TV 4
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21821
+#EXTINF:-1 tvg-id="TV5 MONDE-TR" tvg-name="TR: TV 5" tvg-logo="http://logo.streamstv.me/picon/TRTV5.png" group-title="TR Yoresel Kanallari",TR: TV 5
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21820
+#EXTINF:-1 tvg-id="EM TV-TR" tvg-name="TR: TV EM" tvg-logo="http://logo.streamstv.me/picon/TRTVEM.png" group-title="TR Yoresel Kanallari",TR: TV EM
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21817
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV Kayseri" tvg-logo="http://logo.streamstv.me/picon/TRTVKayser.png" group-title="TR Yoresel Kanallari",TR: TV Kayseri
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21816
+#EXTINF:-1 tvg-id="" tvg-name="TR: Turkmanli TV" tvg-logo="http://logo.streamstv.me/picon/TRTurkmanliTV.png" group-title="TR Yoresel Kanallari",TR: Turkmanli TV
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/21824
+#EXTINF:-1 tvg-id="Ekin Tv-TR" tvg-name="TR: Ekin TV" tvg-logo="" group-title="TR Yoresel Kanallari",TR: Ekin TV
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/73468
+#EXTINF:-1 tvg-id="" tvg-name="------ VIP -----" tvg-logo="" group-title="Turkey",------ VIP -----
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/73413
+#EXTINF:-1 tvg-id="" tvg-name="VIP TR: 24 KiTCHEN FHD" tvg-logo="" group-title="TR Yoresel Kanallari",VIP TR: 24 KiTCHEN FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93493
+#EXTINF:-1 tvg-id="A HABER-TR" tvg-name="VIP TR: A HABER FHD" tvg-logo="" group-title="TR Haber (News)",VIP TR: A HABER FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93367
+#EXTINF:-1 tvg-id="A HABER-TR" tvg-name="VIP TR: A HABER HD" tvg-logo="" group-title="TR Haber (News)",VIP TR: A HABER HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93432
+#EXTINF:-1 tvg-id="A News HD-TR" tvg-name="VIP TR: A NEWS FHD" tvg-logo="" group-title="TR Haber (News)",VIP TR: A NEWS FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93369
+#EXTINF:-1 tvg-id="A PARA-TR" tvg-name="VIP TR: A PARA HD" tvg-logo="" group-title="Turkey",VIP TR: A PARA HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93433
+#EXTINF:-1 tvg-id="A2" tvg-name="VIP TR: A2 FHD" tvg-logo="" group-title="TR Yoresel Kanallari",VIP TR: A2 FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93381
+#EXTINF:-1 tvg-id="A2" tvg-name="VIP TR: A2 HD" tvg-logo="" group-title="TR Yoresel Kanallari",VIP TR: A2 HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93459
+#EXTINF:-1 tvg-id="Animal Planet Hd-TR" tvg-name="VIP TR: ANiMAL PLANET HD" tvg-logo="" group-title="TR Belgesel (Documentary)",VIP TR: ANiMAL PLANET HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93394
+#EXTINF:-1 tvg-id="A PARA-TR" tvg-name="VIP TR: APARA FHD" tvg-logo="" group-title="Turkey",VIP TR: APARA FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93368
+#EXTINF:-1 tvg-id="A SPOR-TR" tvg-name="VIP TR: ASPOR FHD" tvg-logo="" group-title="TR Spor (Sports)",VIP TR: ASPOR FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93386
+#EXTINF:-1 tvg-id="A SPOR-TR" tvg-name="VIP TR: ASPOR HD" tvg-logo="" group-title="TR Spor (Sports)",VIP TR: ASPOR HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93463
+#EXTINF:-1 tvg-id="ATV HD-TR" tvg-name="VIP TR: ATV FHD" tvg-logo="" group-title="TR Ulusal (National)",VIP TR: ATV FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93382
+#EXTINF:-1 tvg-id="ATV HD-TR" tvg-name="VIP TR: ATV HD" tvg-logo="" group-title="TR Ulusal (National)",VIP TR: ATV HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93458
+#EXTINF:-1 tvg-id="BABY TV-TR" tvg-name="VIP TR: BABY TV HD" tvg-logo="" group-title="TR Cocuk (Kids)",VIP TR: BABY TV HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93417
+#EXTINF:-1 tvg-id="BBC EARTH HD-TR" tvg-name="VIP TR: BBC Earth HD (720)" tvg-logo="" group-title="TR Belgesel (Documentary)",VIP TR: BBC Earth HD (720)
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93396
+#EXTINF:-1 tvg-id="beIN BOX OFFICE 1 HD-TR" tvg-name="VIP TR: BEiN BOX OFFİCE 1 HD" tvg-logo="" group-title="TR Film (Movies)",VIP TR: BEiN BOX OFFİCE 1 HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93389
+#EXTINF:-1 tvg-id="beIN BOX OFFICE 2 HD-TR" tvg-name="VIP TR: BEiN BOX OFFİCE 2 HD" tvg-logo="" group-title="TR Film (Movies)",VIP TR: BEiN BOX OFFİCE 2 HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93388
+#EXTINF:-1 tvg-id="beIN BOX OFFICE 3 HD-TR" tvg-name="VIP TR: BEiN BOX OFFİCE 3 HD" tvg-logo="" group-title="TR Film (Movies)",VIP TR: BEiN BOX OFFİCE 3 HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93387
+#EXTINF:-1 tvg-id="beIN GURME HD-TR" tvg-name="VIP TR: BEIN GURME HD" tvg-logo="" group-title="Turkey",VIP TR: BEIN GURME HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93391
+#EXTINF:-1 tvg-id="beIN MOVIES ACTION 2 HD-TR" tvg-name="VIP TR: beIN MOVIES ACTION 2 FHD" tvg-logo="" group-title="TR Film (Movies)",VIP TR: beIN MOVIES ACTION 2 FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93513
+#EXTINF:-1 tvg-id="beIN MOVIES ACTION HD-TR" tvg-name="VIP TR: beIN MOVIES ACTION FHD" tvg-logo="" group-title="TR Film (Movies)",VIP TR: beIN MOVIES ACTION FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93514
+#EXTINF:-1 tvg-id="beIN MOVIES FAMILY HD-TR" tvg-name="VIP TR: beIN MOVIES FAMILY FHD" tvg-logo="" group-title="TR Film (Movies)",VIP TR: beIN MOVIES FAMILY FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93511
+#EXTINF:-1 tvg-id="beIN MOVIES PREMIERE 2 HD-TR" tvg-name="VIP TR: beIN MOVIES PREMIERE 2 FHD" tvg-logo="" group-title="TR Film (Movies)",VIP TR: beIN MOVIES PREMIERE 2 FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93515
+#EXTINF:-1 tvg-id="beIN MOVIES PREMIERE HD-TR" tvg-name="VIP TR: beIN MOVIES PREMIERE FHD" tvg-logo="" group-title="TR Film (Movies)",VIP TR: beIN MOVIES PREMIERE FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93516
+#EXTINF:-1 tvg-id="beIN MOVIES STARS HD-TR" tvg-name="VIP TR: beIN MOVIES STARS FHD" tvg-logo="" group-title="TR Film (Movies)",VIP TR: beIN MOVIES STARS FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93512
+#EXTINF:-1 tvg-id="beIN MOVIES TURK HD-TR" tvg-name="VIP TR: beIN MOVIES TURK FHD" tvg-logo="" group-title="TR Film (Movies)",VIP TR: beIN MOVIES TURK FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93517
+#EXTINF:-1 tvg-id="beIN SERIES COMEDY HD-TR" tvg-name="VIP TR: beIN SERIES COMEDY FHD" tvg-logo="" group-title="TR Film (Movies)",VIP TR: beIN SERIES COMEDY FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93510
+#EXTINF:-1 tvg-id="beIN SERIES DRAMA HD-TR" tvg-name="VIP TR: beIN SERIES DRAMA FHD" tvg-logo="" group-title="TR Film (Movies)",VIP TR: beIN SERIES DRAMA FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93509
+#EXTINF:-1 tvg-id="beIN SERIES SCI-FI HD-TR" tvg-name="VIP TR: beIN SERIES SCI-FI FHD" tvg-logo="" group-title="TR Film (Movies)",VIP TR: beIN SERIES SCI-FI FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93508
+#EXTINF:-1 tvg-id="beIN SERIES VICE HD-TR" tvg-name="VIP TR: beIN SERIES VICE FHD" tvg-logo="" group-title="TR Film (Movies)",VIP TR: beIN SERIES VICE FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93507
+#EXTINF:-1 tvg-id="beIN SPORTS 1-TR" tvg-name="VIP TR: BEIN SPORT 1 (480P)" tvg-logo="" group-title="TR Spor (Sports)",VIP TR: BEIN SPORT 1 (480P)
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93538
+#EXTINF:-1 tvg-id="beIN SPORTS HABER HD-TR" tvg-name="VIP TR: BEIN SPORT HABER HD" tvg-logo="" group-title="TR Haber (News)",VIP TR: BEIN SPORT HABER HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93476
+#EXTINF:-1 tvg-id="beIN SPORTS MAX 1 HD-TR" tvg-name="VIP TR: BEiN SPORT MAX-1 HD  (720P---PLAY)" tvg-logo="" group-title="TR Spor (Sports)",VIP TR: BEiN SPORT MAX-1 HD  (720P---PLAY)
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93478
+#EXTINF:-1 tvg-id="beIN SPORTS MAX 2 HD-TR" tvg-name="VIP TR: BEiN SPORT MAX-2 HD  (720P---PLAY)" tvg-logo="" group-title="TR Spor (Sports)",VIP TR: BEiN SPORT MAX-2 HD  (720P---PLAY)
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93477
+#EXTINF:-1 tvg-id="beIN SPORTS 1-TR" tvg-name="VIP TR: BEiN SPORT-1 HD  (720P---PLAY)" tvg-logo="" group-title="TR Spor (Sports)",VIP TR: BEiN SPORT-1 HD  (720P---PLAY)
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93482
+#EXTINF:-1 tvg-id="beIN SPORTS 2-TR" tvg-name="VIP TR: BEiN SPORT-2 HD  (720P---PLAY)" tvg-logo="" group-title="TR Spor (Sports)",VIP TR: BEiN SPORT-2 HD  (720P---PLAY)
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93481
+#EXTINF:-1 tvg-id="beIN SPORTS 3-TR" tvg-name="VIP TR: BEiN SPORT-3 HD  (720P---PLAY)" tvg-logo="" group-title="TR Spor (Sports)",VIP TR: BEiN SPORT-3 HD  (720P---PLAY)
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93480
+#EXTINF:-1 tvg-id="beIN SPORTS 4-TR" tvg-name="VIP TR: BEiN SPORT-4 HD  (720P---PLAY)" tvg-logo="" group-title="TR Spor (Sports)",VIP TR: BEiN SPORT-4 HD  (720P---PLAY)
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93479
+#EXTINF:-1 tvg-id="beIN SPORTS 1-TR" tvg-name="VIP TR: BEIN SPORTS 1 FHD" tvg-logo="" group-title="TR Spor (Sports)",VIP TR: BEIN SPORTS 1 FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93536
+#EXTINF:-1 tvg-id="beIN SPORTS 1-TR" tvg-name="VIP TR: BEIN SPORTS 1 HD" tvg-logo="" group-title="TR Spor (Sports)",VIP TR: BEIN SPORTS 1 HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93530
+#EXTINF:-1 tvg-id="beIN SPORTS 1-TR" tvg-name="VIP TR: BEIN SPORTS 1 HD ( 50FPS )" tvg-logo="" group-title="TR Spor (Sports)",VIP TR: BEIN SPORTS 1 HD ( 50FPS )
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93537
+#EXTINF:-1 tvg-id="beIN SPORTS 2-TR" tvg-name="VIP TR: BEIN SPORTS 2 FHD" tvg-logo="" group-title="TR Spor (Sports)",VIP TR: BEIN SPORTS 2 FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93535
+#EXTINF:-1 tvg-id="beIN SPORTS 2-TR" tvg-name="VIP TR: BEIN SPORTS 2 HD" tvg-logo="" group-title="TR Spor (Sports)",VIP TR: BEIN SPORTS 2 HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93529
+#EXTINF:-1 tvg-id="beIN SPORTS 3-TR" tvg-name="VIP TR: BEIN SPORTS 3 FHD" tvg-logo="" group-title="TR Spor (Sports)",VIP TR: BEIN SPORTS 3 FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93534
+#EXTINF:-1 tvg-id="beIN SPORTS 3-TR" tvg-name="VIP TR: BEIN SPORTS 3 HD" tvg-logo="" group-title="TR Spor (Sports)",VIP TR: BEIN SPORTS 3 HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93528
+#EXTINF:-1 tvg-id="beIN SPORTS 4-TR" tvg-name="VIP TR: BEIN SPORTS 4 FHD" tvg-logo="" group-title="TR Spor (Sports)",VIP TR: BEIN SPORTS 4 FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93533
+#EXTINF:-1 tvg-id="beIN SPORTS 4-TR" tvg-name="VIP TR: BEIN SPORTS 4 HD" tvg-logo="" group-title="TR Spor (Sports)",VIP TR: BEIN SPORTS 4 HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93527
+#EXTINF:-1 tvg-id="beIN SPORTS MAX 1 HD-TR" tvg-name="VIP TR: BEIN SPORTS MAX 1 FHD" tvg-logo="" group-title="TR Spor (Sports)",VIP TR: BEIN SPORTS MAX 1 FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93532
+#EXTINF:-1 tvg-id="beIN SPORTS MAX 1 HD-TR" tvg-name="VIP TR: BEIN SPORTS MAX 1 HD" tvg-logo="" group-title="TR Spor (Sports)",VIP TR: BEIN SPORTS MAX 1 HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93526
+#EXTINF:-1 tvg-id="beIN SPORTS MAX 2 HD-TR" tvg-name="VIP TR: BEIN SPORTS MAX 2 FHD" tvg-logo="" group-title="TR Spor (Sports)",VIP TR: BEIN SPORTS MAX 2 FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93531
+#EXTINF:-1 tvg-id="beIN SPORTS MAX 2 HD-TR" tvg-name="VIP TR: BEIN SPORTS MAX 2 HD" tvg-logo="" group-title="TR Spor (Sports)",VIP TR: BEIN SPORTS MAX 2 HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93525
+#EXTINF:-1 tvg-id="BEYAZ TV HD-TR" tvg-name="VIP TR: BEYAZ TV FHD" tvg-logo="" group-title="TR Ulusal (National)",VIP TR: BEYAZ TV FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93376
+#EXTINF:-1 tvg-id="BEYAZ TV HD-TR" tvg-name="VIP TR: BEYAZTV HD" tvg-logo="" group-title="TR Ulusal (National)",VIP TR: BEYAZTV HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93456
+#EXTINF:-1 tvg-id="BLOOMBERG HT-TR" tvg-name="VIP TR: BLOOMBERG HT FHD" tvg-logo="" group-title="TR Haber (News)",VIP TR: BLOOMBERG HT FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93360
+#EXTINF:-1 tvg-id="BLOOMBERG HT-TR" tvg-name="VIP TR: BLOOMBERGHT HD" tvg-logo="" group-title="TR Haber (News)",VIP TR: BLOOMBERGHT HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93434
+#EXTINF:-1 tvg-id="BLOOMBERG TV-TR" tvg-name="VIP TR: BOOMERANG HD" tvg-logo="" group-title="TR Cocuk (Kids)",VIP TR: BOOMERANG HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93416
+#EXTINF:-1 tvg-id="CARTOON NETWORK-TR" tvg-name="VIP TR: CARTOON NETWORK HD" tvg-logo="" group-title="TR Cocuk (Kids)",VIP TR: CARTOON NETWORK HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93415
+#EXTINF:-1 tvg-id="CBEEBIES HD-TR" tvg-name="VIP TR: CBEEBiES" tvg-logo="" group-title="Turkey",VIP TR: CBEEBiES
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93419
+#EXTINF:-1 tvg-id="CEM TV-TR" tvg-name="VIP TR: CEM TV HD" tvg-logo="" group-title="TR Yoresel Kanallari",VIP TR: CEM TV HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93444
+#EXTINF:-1 tvg-id="CNN TÜRK HD-TR" tvg-name="VIP TR: CNN TURK FHD" tvg-logo="" group-title="TR Haber (News)",VIP TR: CNN TURK FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93362
+#EXTINF:-1 tvg-id="CNN TÜRK HD-TR" tvg-name="VIP TR: CNN TURK HD" tvg-logo="" group-title="TR Haber (News)",VIP TR: CNN TURK HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93430
+#EXTINF:-1 tvg-id="DA VINCI LEARNING HD-TR" tvg-name="VIP TR: DA VINCİ KIDS HD" tvg-logo="" group-title="TR Yoresel Kanallari",VIP TR: DA VINCİ KIDS HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93418
+#EXTINF:-1 tvg-id="DISCOVERY CHANNEL HD-TR" tvg-name="VIP TR: DiSCOWERY CHANNEL HD" tvg-logo="" group-title="TR Belgesel (Documentary)",VIP TR: DiSCOWERY CHANNEL HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93399
+#EXTINF:-1 tvg-id="" tvg-name="VIP TR: Discowery IDX HD" tvg-logo="" group-title="TR Belgesel (Documentary)",VIP TR: Discowery IDX HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93397
+#EXTINF:-1 tvg-id="Discovery Science HD-TR" tvg-name="VIP TR: DiSCOWERY SCiENCE HD" tvg-logo="" group-title="TR Belgesel (Documentary)",VIP TR: DiSCOWERY SCiENCE HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93398
+#EXTINF:-1 tvg-id="DISNEY CHANNEL-TR" tvg-name="VIP TR: DISNEY CHANNEL HD" tvg-logo="" group-title="TR Cocuk (Kids)",VIP TR: DISNEY CHANNEL HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93422
+#EXTINF:-1 tvg-id="Disney Junior-TR" tvg-name="VIP TR: DISNEY JR HD" tvg-logo="" group-title="TR Cocuk (Kids)",VIP TR: DISNEY JR HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93421
+#EXTINF:-1 tvg-id="Disney XD-TR" tvg-name="VIP TR: DiSNEY XD HD" tvg-logo="" group-title="TR Cocuk (Kids)",VIP TR: DiSNEY XD HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93420
+#EXTINF:-1 tvg-id="" tvg-name="VIP TR: DiZi SMART MAX FHD" tvg-logo="" group-title="TR Yoresel Kanallari",VIP TR: DiZi SMART MAX FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93495
+#EXTINF:-1 tvg-id="Dizi Premium HD-TR" tvg-name="VIP TR: DIZI SMART PREMIUM FHD" tvg-logo="" group-title="TR Yoresel Kanallari",VIP TR: DIZI SMART PREMIUM FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93496
+#EXTINF:-1 tvg-id="DMAX HD-TR" tvg-name="VIP TR: DMAX FHD" tvg-logo="" group-title="TR Spor (Sports)",VIP TR: DMAX FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93370
+#EXTINF:-1 tvg-id="DMAX HD-TR" tvg-name="VIP TR: DMAX HD" tvg-logo="" group-title="TR Spor (Sports)",VIP TR: DMAX HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93392
+#EXTINF:-1 tvg-id="Dream Türk-TR" tvg-name="VIP TR: DREAM TURK HD" tvg-logo="" group-title="TR Muzik (Music)",VIP TR: DREAM TURK HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93410
+#EXTINF:-1 tvg-id="DREAM TV-TR" tvg-name="VIP TR: DREAM TV HD" tvg-logo="" group-title="TR Muzik (Music)",VIP TR: DREAM TV HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93409
+#EXTINF:-1 tvg-id="EKOTÜRK-TR" tvg-name="VIP TR: EKOTURK HD" tvg-logo="" group-title="Turkey",VIP TR: EKOTURK HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93435
+#EXTINF:-1 tvg-id="EUROSPORT 1 HD-TR" tvg-name="VIP TR: EUROSPORT1 HD" tvg-logo="" group-title="TR Spor (Sports)",VIP TR: EUROSPORT1 HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93469
+#EXTINF:-1 tvg-id="EUROSPORT 2 TR HD-TR" tvg-name="VIP TR: EUROSPORT2 HD" tvg-logo="" group-title="TR Spor (Sports)",VIP TR: EUROSPORT2 HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93468
+#EXTINF:-1 tvg-id="FB TV HD-TR" tvg-name="VIP TR: FBTV HD" tvg-logo="" group-title="Turkey",VIP TR: FBTV HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93466
+#EXTINF:-1 tvg-id="FOX-TR" tvg-name="VIP TR: FOX TV FHD" tvg-logo="" group-title="TR Ulusal (National)",VIP TR: FOX TV FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93377
+#EXTINF:-1 tvg-id="FOX-TR" tvg-name="VIP TR: FOXTV HD" tvg-logo="" group-title="TR Ulusal (National)",VIP TR: FOXTV HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93457
+#EXTINF:-1 tvg-id="FOX CRIME HD-TR" tvg-name="VIP TR: FOX CRiME FHD" tvg-logo="" group-title="TR Yoresel Kanallari",VIP TR: FOX CRiME FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93483
+#EXTINF:-1 tvg-id="FX HD-TR" tvg-name="VIP TR: FX FHD" tvg-logo="" group-title="TR Yoresel Kanallari",VIP TR: FX FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93485
+#EXTINF:-1 tvg-id="FOX LIFE HD-TR" tvg-name="VIP TR: FOX LiFE FHD" tvg-logo="" group-title="TR Yoresel Kanallari",VIP TR: FOX LiFE FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93484
+#EXTINF:-1 tvg-id="HABER GLOBAL HD-TR" tvg-name="VIP TR: GLOBAL HABER HD" tvg-logo="" group-title="TR Haber (News)",VIP TR: GLOBAL HABER HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93431
+#EXTINF:-1 tvg-id="GS TV HD-TR" tvg-name="VIP TR: GSTV HD" tvg-logo="" group-title="TR Spor (Sports)",VIP TR: GSTV HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93467
+#EXTINF:-1 tvg-id="HABER GLOBAL HD-TR" tvg-name="VIP TR: HABER GLOBAL FHD" tvg-logo="" group-title="TR Haber (News)",VIP TR: HABER GLOBAL FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93366
+#EXTINF:-1 tvg-id="HABERTÜRK-TR" tvg-name="VIP TR: HABER TURK FHD" tvg-logo="" group-title="TR Haber (News)",VIP TR: HABER TURK FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93363
+#EXTINF:-1 tvg-id="HABERTÜRK-TR" tvg-name="VIP TR: HABERTURK HD" tvg-logo="" group-title="TR Haber (News)",VIP TR: HABERTURK HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93429
+#EXTINF:-1 tvg-id="Halk Tv-TR" tvg-name="VIP TR: HALK TV HD" tvg-logo="" group-title="TR Yoresel Kanallari",VIP TR: HALK TV HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93439
+#EXTINF:-1 tvg-id="History HD-TR" tvg-name="VIP TR: HİSTORY HD" tvg-logo="" group-title="TR Belgesel (Documentary)",VIP TR: HİSTORY HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93395
+#EXTINF:-1 tvg-id="İdman Azerbaycan-TR" tvg-name="VIP TR: iDMAN TV HD" tvg-logo="" group-title="TR Spor (Sports)",VIP TR: iDMAN TV HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93470
+#EXTINF:-1 tvg-id="İz Tv Hd-TR" tvg-name="VIP TR: İZTV HD" tvg-logo="" group-title="Turkey",VIP TR: İZTV HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93393
+#EXTINF:-1 tvg-id="" tvg-name="VIP TR: KANAL 24 HD" tvg-logo="" group-title="TR Yoresel Kanallari",VIP TR: KANAL 24 HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93426
+#EXTINF:-1 tvg-id="KANAL 7-TR" tvg-name="VIP TR: KANAL 7 FHD" tvg-logo="" group-title="TR Ulusal (National)",VIP TR: KANAL 7 FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93375
+#EXTINF:-1 tvg-id="KANAL D-TR" tvg-name="VIP TR: KANAL D FHD" tvg-logo="" group-title="TR Ulusal (National)",VIP TR: KANAL D FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93379
+#EXTINF:-1 tvg-id="KANAL D-TR" tvg-name="VIP TR: KANAL D HD" tvg-logo="" group-title="TR Ulusal (National)",VIP TR: KANAL D HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93450
+#EXTINF:-1 tvg-id="KANAL 7-TR" tvg-name="VIP TR: KANAL7 HD" tvg-logo="" group-title="TR Ulusal (National)",VIP TR: KANAL7 HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93455
+#EXTINF:-1 tvg-id="Kral Pop Radyo-TR" tvg-name="VIP TR: KRAL POP HD" tvg-logo="" group-title="TR Muzik (Music)",VIP TR: KRAL POP HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93411
+#EXTINF:-1 tvg-id="" tvg-name="VIP TR: KRAL TV HD" tvg-logo="" group-title="TR Muzik (Music)",VIP TR: KRAL TV HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93412
+#EXTINF:-1 tvg-id="" tvg-name="VIP TR: KRAL TV HD FHD" tvg-logo="" group-title="TR Muzik (Music)",VIP TR: KRAL TV HD FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93358
+#EXTINF:-1 tvg-id="KRT TV-TR" tvg-name="VIP TR: KRT TV HD" tvg-logo="" group-title="Turkey",VIP TR: KRT TV HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93438
+#EXTINF:-1 tvg-id="MinikaGO-TR" tvg-name="VIP TR: MINICA GO HD" tvg-logo="" group-title="TR Cocuk (Kids)",VIP TR: MINICA GO HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93414
+#EXTINF:-1 tvg-id="Minika Çocuk-TR" tvg-name="VIP TR: MINIKA COCUK HD" tvg-logo="" group-title="TR Cocuk (Kids)",VIP TR: MINIKA COCUK HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93413
+#EXTINF:-1 tvg-id="MovieSmart Action HD-TR" tvg-name="VIP TR: MOVIE SMART ACTION FHD" tvg-logo="" group-title="TR Film (Movies)",VIP TR: MOVIE SMART ACTION FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93501
+#EXTINF:-1 tvg-id="MovieSmart Classic HD-TR" tvg-name="VIP TR: MOVIE SMART CLASSIC FHD" tvg-logo="" group-title="TR Film (Movies)",VIP TR: MOVIE SMART CLASSIC FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93497
+#EXTINF:-1 tvg-id="MovieSmart Family HD-TR" tvg-name="VIP TR: MOVIE SMART FAMILY FHD" tvg-logo="" group-title="TR Film (Movies)",VIP TR: MOVIE SMART FAMILY FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93498
+#EXTINF:-1 tvg-id="MovieSmart Fest HD-TR-TR" tvg-name="VIP TR: MOVIE SMART FEST FHD" tvg-logo="" group-title="TR Film (Movies)",VIP TR: MOVIE SMART FEST FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93499
+#EXTINF:-1 tvg-id="MovieSmart Gold HD-TR" tvg-name="VIP TR: MOVIE SMART GOLD FHD" tvg-logo="" group-title="TR Film (Movies)",VIP TR: MOVIE SMART GOLD FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93500
+#EXTINF:-1 tvg-id="MovieSmart Platin 2 HD-TR" tvg-name="VIP TR: MOVIE SMART PLATIN 2 FHD" tvg-logo="" group-title="TR Film (Movies)",VIP TR: MOVIE SMART PLATIN 2 FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93502
+#EXTINF:-1 tvg-id="MovieSmart Platin HD-TR" tvg-name="VIP TR: MOVIE SMART PLATIN FHD" tvg-logo="" group-title="TR Film (Movies)",VIP TR: MOVIE SMART PLATIN FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93503
+#EXTINF:-1 tvg-id="MovieSmart Premium 2 HD-TR" tvg-name="VIP TR: MOVIE SMART PREMIUM 2 FHD" tvg-logo="" group-title="TR Film (Movies)",VIP TR: MOVIE SMART PREMIUM 2 FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93504
+#EXTINF:-1 tvg-id="MovieSmart Premium HD-TR" tvg-name="VIP TR: MOVIE SMART PREMIUM FHD" tvg-logo="" group-title="TR Film (Movies)",VIP TR: MOVIE SMART PREMIUM FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93505
+#EXTINF:-1 tvg-id="MovieSmart Türk HD-TR" tvg-name="VIP TR: MOVIE SMART TURK FHD" tvg-logo="" group-title="TR Film (Movies)",VIP TR: MOVIE SMART TURK FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93506
+#EXTINF:-1 tvg-id="Moviemax Türk-TR" tvg-name="VIP TR: MOVIEMAXTURK HD" tvg-logo="" group-title="TR Film (Movies)",VIP TR: MOVIEMAXTURK HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93390
+#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC WILD-TR" tvg-name="VIP TR: NAT GEO WİLD HD" tvg-logo="" group-title="TR Belgesel (Documentary)",VIP TR: NAT GEO WİLD HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93402
+#EXTINF:-1 tvg-id="NAT GEO PEOPLE HD-TR" tvg-name="VIP TR: NATIONAL GEO PEOPLE HD" tvg-logo="" group-title="TR Belgesel (Documentary)",VIP TR: NATIONAL GEO PEOPLE HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93400
+#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC WILD-TR" tvg-name="VIP TR: NATİONAL GEOGRAPHİC HD" tvg-logo="" group-title="TR Belgesel (Documentary)",VIP TR: NATİONAL GEOGRAPHİC HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93401
+#EXTINF:-1 tvg-id="NBA TV HD-TR" tvg-name="VIP TR: NBA TV FHD" tvg-logo="" group-title="TR Spor (Sports)",VIP TR: NBA TV FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93522
+#EXTINF:-1 tvg-id="Nick Jr.-TR" tvg-name="VIP TR: NICK JR HD" tvg-logo="" group-title="TR Cocuk (Kids)",VIP TR: NICK JR HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93423
+#EXTINF:-1 tvg-id="Nickelodeon-TR" tvg-name="VIP TR: NICKELODEON HD" tvg-logo="" group-title="TR Cocuk (Kids)",VIP TR: NICKELODEON HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93424
+#EXTINF:-1 tvg-id="" tvg-name="VIP TR: NR1 HD" tvg-logo="" group-title="TR Muzik (Music)",VIP TR: NR1 HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93407
+#EXTINF:-1 tvg-id="" tvg-name="VIP TR: NR1 TURK HD" tvg-logo="" group-title="TR Muzik (Music)",VIP TR: NR1 TURK HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93408
+#EXTINF:-1 tvg-id="NTV-TR" tvg-name="VIP TR: NTV FHD" tvg-logo="" group-title="TR Haber (News)",VIP TR: NTV FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93361
+#EXTINF:-1 tvg-id="" tvg-name="VIP TR: NTV HABER HD" tvg-logo="" group-title="TR Haber (News)",VIP TR: NTV HABER HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93428
+#EXTINF:-1 tvg-id="POWER TURK TV HD-TR" tvg-name="VIP TR: POWER TURK HD" tvg-logo="" group-title="TR Yoresel Kanallari",VIP TR: POWER TURK HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93406
+#EXTINF:-1 tvg-id="POWER TURK TV HD-TR" tvg-name="VIP TR: POWER TV HD" tvg-logo="" group-title="TR Yoresel Kanallari",VIP TR: POWER TV HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93405
+#EXTINF:-1 tvg-id="" tvg-name="VIP TR: S-SPORT 1 FHD" tvg-logo="" group-title="TR Spor (Sports)",VIP TR: S-SPORT 1 FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93524
+#EXTINF:-1 tvg-id="" tvg-name="VIP TR: S-SPORT 2 FHD" tvg-logo="" group-title="TR Spor (Sports)",VIP TR: S-SPORT 2 FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93523
+#EXTINF:-1 tvg-id="S SPORT HD-TR" tvg-name="VIP TR: S-SPORT HD" tvg-logo="" group-title="TR Spor (Sports)",VIP TR: S-SPORT HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93472
+#EXTINF:-1 tvg-id="SHOW TV-TR" tvg-name="VIP TR: SHOW TV FHD" tvg-logo="" group-title="TR Ulusal (National)",VIP TR: SHOW TV FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93380
+#EXTINF:-1 tvg-id="SHOW TV-TR" tvg-name="VIP TR: SHOWTV HD" tvg-logo="" group-title="TR Ulusal (National)",VIP TR: SHOWTV HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93452
+#EXTINF:-1 tvg-id="Sinema TV 1001-TR" tvg-name="VIP TR: SiNEMA TV 1001 FHD" tvg-logo="" group-title="TR Film (Movies)",VIP TR: SiNEMA TV 1001 FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93486
+#EXTINF:-1 tvg-id="Sinema Tv Aile-TR" tvg-name="VIP TR: SiNEMA TV AiLE FHD" tvg-logo="" group-title="TR Film (Movies)",VIP TR: SiNEMA TV AiLE FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93488
+#EXTINF:-1 tvg-id="SINEMA TV AKSIYON HD-TR" tvg-name="VIP TR: SiNEMA TV AKSiYON FHD" tvg-logo="" group-title="TR Film (Movies)",VIP TR: SiNEMA TV AKSiYON FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93489
+#EXTINF:-1 tvg-id="SINEMA TV HD-TR" tvg-name="VIP TR: SiNEMA TV FHD" tvg-logo="" group-title="TR Film (Movies)",VIP TR: SiNEMA TV FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93490
+#EXTINF:-1 tvg-id="" tvg-name="VIP TR: SiNEMA TV KOMEDi FHD" tvg-logo="" group-title="TR Film (Movies)",VIP TR: SiNEMA TV KOMEDi FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93487
+#EXTINF:-1 tvg-id="" tvg-name="VIP TR: SiNEMA TV YERLi FHD" tvg-logo="" group-title="TR Film (Movies)",VIP TR: SiNEMA TV YERLi FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93491
+#EXTINF:-1 tvg-id="Sky Turk 360-TR" tvg-name="VIP TR: SKYTURK360 FHD" tvg-logo="" group-title="Turkey",VIP TR: SKYTURK360 FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93372
+#EXTINF:-1 tvg-id="Sky Turk 360-TR" tvg-name="VIP TR: SKYTURK360 HD" tvg-logo="" group-title="Turkey",VIP TR: SKYTURK360 HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93449
+#EXTINF:-1 tvg-id="" tvg-name="VIP TR: SMART COCUK FHD" tvg-logo="" group-title="TR Cocuk (Kids)",VIP TR: SMART COCUK FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93492
+#EXTINF:-1 tvg-id="Smart Sport HD-TR" tvg-name="VIP TR: SPOR SMART FHD" tvg-logo="" group-title="TR Spor (Sports)",VIP TR: SPOR SMART FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93521
+#EXTINF:-1 tvg-id="Smart Sport HD-TR" tvg-name="VIP TR: SPOR SMART HD" tvg-logo="" group-title="TR Spor (Sports)",VIP TR: SPOR SMART HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93471
+#EXTINF:-1 tvg-id="SPORTS TV-TR" tvg-name="VIP TR: SPORTSTV HD" tvg-logo="" group-title="TR Spor (Sports)",VIP TR: SPORTSTV HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93465
+#EXTINF:-1 tvg-id="STAR TV-TR" tvg-name="VIP TR: STAR TV FHD" tvg-logo="" group-title="TR Ulusal (National)",VIP TR: STAR TV FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93378
+#EXTINF:-1 tvg-id="STAR TV-TR" tvg-name="VIP TR: STARTV HD" tvg-logo="" group-title="TR Ulusal (National)",VIP TR: STARTV HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93451
+#EXTINF:-1 tvg-id="" tvg-name="VIP TR: TELE 1 HD" tvg-logo="" group-title="TR Haber (News)",VIP TR: TELE 1 HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93447
+#EXTINF:-1 tvg-id="TEVE2 HD-TR" tvg-name="VIP TR: TEVE 2 FHD" tvg-logo="" group-title="TR Yoresel Kanallari",VIP TR: TEVE 2 FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93371
+#EXTINF:-1 tvg-id="" tvg-name="VIP TR: TEVE 2 HD" tvg-logo="" group-title="TR Yoresel Kanallari",VIP TR: TEVE 2 HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93448
+#EXTINF:-1 tvg-id="TGRT HABER-TR" tvg-name="VIP TR: TGRT HABER FHD" tvg-logo="" group-title="TR Haber (News)",VIP TR: TGRT HABER FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93364
+#EXTINF:-1 tvg-id="TGRT HABER-TR" tvg-name="VIP TR: TGRT HABER HD" tvg-logo="" group-title="TR Haber (News)",VIP TR: TGRT HABER HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93427
+#EXTINF:-1 tvg-id="" tvg-name="VIP TR: TiViBUSPOR 1 FHD" tvg-logo="" group-title="TR Spor (Sports)",VIP TR: TiViBUSPOR 1 FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93520
+#EXTINF:-1 tvg-id="" tvg-name="VIP TR: TiViBUSPOR 2 FHD" tvg-logo="" group-title="TR Spor (Sports)",VIP TR: TiViBUSPOR 2 FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93519
+#EXTINF:-1 tvg-id="" tvg-name="VIP TR: TiViBUSPOR 3 FHD" tvg-logo="" group-title="TR Spor (Sports)",VIP TR: TiViBUSPOR 3 FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93518
+#EXTINF:-1 tvg-id="" tvg-name="VIP TR: TIVIBUSPOR-1 HD" tvg-logo="" group-title="TR Spor (Sports)",VIP TR: TIVIBUSPOR-1 HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93475
+#EXTINF:-1 tvg-id="" tvg-name="VIP TR: TIVIBUSPOR-2 HD" tvg-logo="" group-title="TR Spor (Sports)",VIP TR: TIVIBUSPOR-2 HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93474
+#EXTINF:-1 tvg-id="" tvg-name="VIP TR: TIVIBUSPOR-3 HD" tvg-logo="" group-title="TR Spor (Sports)",VIP TR: TIVIBUSPOR-3 HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93473
+#EXTINF:-1 tvg-id="TJK TV-TR" tvg-name="VIP TR: TJK TV HD" tvg-logo="" group-title="TR Spor (Sports)",VIP TR: TJK TV HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93464
+#EXTINF:-1 tvg-id="TLC-TR" tvg-name="VIP TR: TLC HD" tvg-logo="" group-title="TR Belgesel (Documentary)",VIP TR: TLC HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93442
+#EXTINF:-1 tvg-id="TRT 1 HD-TR" tvg-name="VIP TR: TRT 1 FHD" tvg-logo="" group-title="TR Ulusal (National)",VIP TR: TRT 1 FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93384
+#EXTINF:-1 tvg-id="TRT 2 HD-TR" tvg-name="VIP TR: TRT 2 FHD" tvg-logo="" group-title="TR Ulusal (National)",VIP TR: TRT 2 FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93383
+#EXTINF:-1 tvg-id="TRT 2 HD-TR" tvg-name="VIP TR: TRT 2 HD" tvg-logo="" group-title="TR Ulusal (National)",VIP TR: TRT 2 HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93460
+#EXTINF:-1 tvg-id="TRT BELGESEL-TR" tvg-name="VIP TR: TRT BELGESEL HD" tvg-logo="" group-title="TR Belgesel (Documentary)",VIP TR: TRT BELGESEL HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93403
+#EXTINF:-1 tvg-id="TRT ÇOCUK HD-TR" tvg-name="VIP TR: TRT COCUK FHD" tvg-logo="" group-title="TR Cocuk (Kids)",VIP TR: TRT COCUK FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93356
+#EXTINF:-1 tvg-id="TRT ÇOCUK HD-TR" tvg-name="VIP TR: TRT ÇOCUK HD" tvg-logo="" group-title="TR Cocuk (Kids)",VIP TR: TRT ÇOCUK HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93425
+#EXTINF:-1 tvg-id="TRT HABER HD-TR" tvg-name="VIP TR: TRT HABER FHD" tvg-logo="" group-title="TR Haber (News)",VIP TR: TRT HABER FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93365
+#EXTINF:-1 tvg-id="TRT HABER HD-TR" tvg-name="VIP TR: TRT HABER HD" tvg-logo="" group-title="TR Haber (News)",VIP TR: TRT HABER HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93436
+#EXTINF:-1 tvg-id="TRT MÜZİK-TR" tvg-name="VIP TR: TRT MUZiK FHD" tvg-logo="" group-title="TR Muzik (Music)",VIP TR: TRT MUZiK FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93357
+#EXTINF:-1 tvg-id="TRT SPOR HD-TR" tvg-name="VIP TR: TRT SPOR FHD" tvg-logo="" group-title="TR Spor (Sports)",VIP TR: TRT SPOR FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93385
+#EXTINF:-1 tvg-id="TRT TÜRK-TR" tvg-name="VIP TR: TRT TURK HD" tvg-logo="" group-title="TR Ulusal (National)",VIP TR: TRT TURK HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93437
+#EXTINF:-1 tvg-id="" tvg-name="VIP TR: TRT 4K UHD" tvg-logo="http://logo.streamstv.me/picon/VIPTRTRT4K.png" group-title="TR Ulusal (National)",VIP TR: TRT 4K UHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/73412
+#EXTINF:-1 tvg-id="TRT 1 HD-TR" tvg-name="VIP TR: TRT1 HD" tvg-logo="" group-title="TR Ulusal (National)",VIP TR: TRT1 HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93461
+#EXTINF:-1 tvg-id="TRT SPOR HD-TR" tvg-name="VIP TR: TRTSPOR HD" tvg-logo="" group-title="TR Spor (Sports)",VIP TR: TRTSPOR HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93462
+#EXTINF:-1 tvg-id="TV8-TR" tvg-name="VIP TR: TV 8 FHD" tvg-logo="" group-title="TR Ulusal (National)",VIP TR: TV 8 FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93374
+#EXTINF:-1 tvg-id="TV 8,5 HD-TR" tvg-name="VIP TR: TV 8.5 FHD" tvg-logo="" group-title="TR Ulusal (National)",VIP TR: TV 8.5 FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93373
+#EXTINF:-1 tvg-id="" tvg-name="VIP TR: TV100 HD" tvg-logo="" group-title="TR Haber (News)",VIP TR: TV100 HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93445
+#EXTINF:-1 tvg-id="TV5 MONDE-TR" tvg-name="VIP TR: TV5" tvg-logo="" group-title="Turkey",VIP TR: TV5
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93446
+#EXTINF:-1 tvg-id="TV8-TR" tvg-name="VIP TR: TV8 HD" tvg-logo="" group-title="TR Ulusal (National)",VIP TR: TV8 HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93454
+#EXTINF:-1 tvg-id="TV 8,5 HD-TR" tvg-name="VIP TR: TV8.5 HD" tvg-logo="" group-title="TR Ulusal (National)",VIP TR: TV8.5 HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93453
+#EXTINF:-1 tvg-id="TVNET HD-TR" tvg-name="VIP TR: TVNET HD" tvg-logo="" group-title="Turkey",VIP TR: TVNET HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93441
+#EXTINF:-1 tvg-id="ÜLKE TV-TR" tvg-name="VIP TR: ÜLKE TV FHD" tvg-logo="" group-title="TR Haber (News)",VIP TR: ÜLKE TV FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93359
+#EXTINF:-1 tvg-id="" tvg-name="VIP TR: ULKETV HD" tvg-logo="" group-title="TR Haber (News)",VIP TR: ULKETV HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93440
+#EXTINF:-1 tvg-id="ULUSAL KANAL-TR" tvg-name="VIP TR: ULUSAL TV HD" tvg-logo="" group-title="TR Ulusal (National)",VIP TR: ULUSAL TV HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93443
+#EXTINF:-1 tvg-id="Viasat History HD-TR" tvg-name="VIP TR: ViASAT HiSTORY FHD" tvg-logo="" group-title="TR Belgesel (Documentary)",VIP TR: ViASAT HiSTORY FHD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93494
+#EXTINF:-1 tvg-id="YABAN TV HD-TR" tvg-name="VIP TR: YABAN TV HD" tvg-logo="" group-title="TR Belgesel (Documentary)",VIP TR: YABAN TV HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/93404
+#EXTINF:-1 tvg-id="" tvg-name="------ Max Movies -----" tvg-logo="" group-title="Turkey",------ Max Movies -----
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/50566
+#EXTINF:-1 tvg-id="" tvg-name="TR: Max 007 FHD VIP" tvg-logo="http://logo.streamstv.me/picon/TRMax007FHDVIP.png" group-title="TR Film (Movies)",TR: Max 007 FHD VIP
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/20357
+#EXTINF:-1 tvg-id="" tvg-name="TR: Max 4K UHD VIP" tvg-logo="" group-title="TR Film (Movies)",TR: Max 4K UHD VIP
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/50178
+#EXTINF:-1 tvg-id="" tvg-name="TR: Max Aksiyon FHD VIP" tvg-logo="http://logo.streamstv.me/picon/TRMaxAksyonFHDVIP.png" group-title="TR Film (Movies)",TR: Max Aksiyon FHD VIP
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/20356
+#EXTINF:-1 tvg-id="" tvg-name="TR: Max Animasyon 1 FHD VIP" tvg-logo="http://logo.streamstv.me/picon/TRMaxAnimasyon1FHDVIP.png" group-title="TR Film (Movies)",TR: Max Animasyon 1 FHD VIP
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/20355
+#EXTINF:-1 tvg-id="" tvg-name="TR: Max Animasyon 2 FHD VIP" tvg-logo="http://logo.streamstv.me/picon/TRMaxAnimasyon2FHDVIP.png" group-title="TR Film (Movies)",TR: Max Animasyon 2 FHD VIP
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/20354
+#EXTINF:-1 tvg-id="" tvg-name="TR: Max FHD VIP" tvg-logo="http://logo.streamstv.me/picon/TRMaxFHDVIP.png" group-title="TR Film (Movies)",TR: Max FHD VIP
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/20352
+#EXTINF:-1 tvg-id="" tvg-name="TR: Max Gold FHD VIP" tvg-logo="http://logo.streamstv.me/picon/TRMaxGoldFHDVIP.png" group-title="TR Film (Movies)",TR: Max Gold FHD VIP
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/20351
+#EXTINF:-1 tvg-id="" tvg-name="TR: Max Orjinal FHD VIP" tvg-logo="http://logo.streamstv.me/picon/.png" group-title="TR Film (Movies)",TR: Max Orjinal FHD VIP
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/49236
+#EXTINF:-1 tvg-id="" tvg-name="TR: Max Premier HD" tvg-logo="http://logo.streamstv.me/picon/TRMaxPremierFHDVIP.png" group-title="TR Film (Movies)",TR: Max Premier HD
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/20350
+#EXTINF:-1 tvg-id="" tvg-name="TR: Max Star Wars FHD VIP" tvg-logo="http://logo.streamstv.me/picon/TRMaxStarWarsFHDVIP.png" group-title="TR Film (Movies)",TR: Max Star Wars FHD VIP
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/20349
+#EXTINF:-1 tvg-id="" tvg-name="TR: Max Turk FHD VIP" tvg-logo="http://logo.streamstv.me/picon/TRMaxTurkFHDVIP.png" group-title="TR Film (Movies)",TR: Max Turk FHD VIP
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/20348
+#EXTINF:-1 tvg-id="" tvg-name="TR: Max Vizyon 1 FHD VIP" tvg-logo="http://logo.streamstv.me/picon/TRMaxVizyon1FHDVIP.png" group-title="TR Film (Movies)",TR: Max Vizyon 1 FHD VIP
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/20347
+#EXTINF:-1 tvg-id="" tvg-name="TR: Max Vizyon 2 FHD VIP" tvg-logo="http://logo.streamstv.me/picon/TRMaxVizyon2FHDVIP.png" group-title="TR Film (Movies)",TR: Max Vizyon 2 FHD VIP
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/20346
+#EXTINF:-1 tvg-id="" tvg-name="TR: Max Vizyon 3 FHD VIP" tvg-logo="http://logo.streamstv.me/picon/TRMaxVizyon3FHDVIP.png" group-title="TR Film (Movies)",TR: Max Vizyon 3 FHD VIP
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/20345
+#EXTINF:-1 tvg-id="" tvg-name="TR: Max Vizyon 4 FHD VIP" tvg-logo="http://logo.streamstv.me/picon/.png" group-title="TR Film (Movies)",TR: Max Vizyon 4 FHD VIP
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/49237
+#EXTINF:-1 tvg-id="" tvg-name="TR: Max Western FHD VIP" tvg-logo="http://logo.streamstv.me/picon/TRMaxWesternFHDVIP.png" group-title="TR Film (Movies)",TR: Max Western FHD VIP
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/20344
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT Radyo 1" tvg-logo="" group-title="TR Radio",TR: TRT Radyo 1
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/81992
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT Radyo 3" tvg-logo="" group-title="TR Radio",TR: TRT Radyo 3
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/81990
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT Radyo FM" tvg-logo="" group-title="TR Radio",TR: TRT Radyo FM
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/81991
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT RADYO HABER" tvg-logo="" group-title="TR Radio",TR: TRT RADYO HABER
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/81987
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT Radyo NAGME" tvg-logo="" group-title="TR Radio",TR: TRT Radyo NAGME
+http://config.streamstv.me:8080/3nEttrxHRi/7C3auQsR7F/81989
